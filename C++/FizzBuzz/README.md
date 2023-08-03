@@ -1,6 +1,6 @@
-### FizzBuzz in Python
+### FizzBuzz in C++
 
-```python
+```c++
 class Solution {
  public:
   vector<string> fizzBuzz(int n) {
