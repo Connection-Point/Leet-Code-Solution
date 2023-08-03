@@ -44,4 +44,3 @@ Finally, the code returns the vector of strings.
 **Space complexity:** O(n)
 
 
-I hope this is helpful! Let me know if you have any other questions.
