@@ -26,6 +26,7 @@ class solution{
             return MaxWealth;
         }
 };
+```
 
 
 This code is a function called `maximumWealth()` that takes a 2D array of integers as input and returns the maximum wealth of any individual in the array. The 2D array represents the wealth of each individual, where each row represents an individual and each column represents a different asset.
